@@ -28,6 +28,16 @@ Quantitative comparison of model complexity with open source models:
 
 
 
+# Code
+The official repository of Frequency-Spatial Interaction Reinforcement Paradigm for Infrared Small Target Detection.
+  ```
+The key package has been provided. Once the paper is accepted, we will release all the codes publicly. Please stay tuned for future updates. 
+  ```
+
+# Contact
+If you have any questions, please contact Yongji Li (liyj328@mail2.sysu.edu.cn).
+
+
 
 
 
