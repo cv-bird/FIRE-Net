@@ -13,6 +13,19 @@ Infrared (IR) search and track systems are widely applied in aerospace and defen
 
 
 
+# Models
+Quantitative comparison of model complexity with open source models:
+
+|Methods   | FLOPs(G) | Params(M)   |
+|--------|-----|--------|
+| AGPCNet   | 172.86  | 12.36   |
+| UIU-Net   | 218.35  | 50.54   |
+| MMRFF-Net   | 0.58  | 0.44   |
+| DNA-Net   | 56.68  | 4.70   |
+| ISTDU-Net   | 34.27  | 2.76   |
+| GCLNet   | 22.53  | 19.04   |
+| FIRE-Net   | 81.69  | 8.87   |
+
 
 
 
